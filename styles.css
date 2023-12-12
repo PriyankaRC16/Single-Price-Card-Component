@@ -86,11 +86,12 @@ body {
 
 .darkcyan-card {
     display: flex;
-    padding: 2.21rem;
+    height: 20.41rem;
+    padding: 2.625rem 3.97rem;
     flex-direction: column;
-    gap: 1.1rem;
-    border-radius: 0rem 0rem 0rem 0.625rem;
-    background: var(--color-lightcyan);
+    gap: 1.3125rem;
+    border-radius: 0rem 0rem 0.625rem 0rem;
+    background: var(--color-cyan);
 }
 
 .headlinethree {
@@ -143,12 +144,11 @@ button {
 
 .lightcyan-card {
     display: flex;
-    height: 20.41rem;
-    padding: 2.625rem 3.97rem;
+    padding: 2.21rem;
     flex-direction: column;
-    gap: 1.3125rem;
-    border-radius: 0rem 0rem 0.625rem 0rem;
-    background: var(--color-cyan);
+    gap: 1.1rem;
+    border-radius: 0rem 0rem 0rem 0.625rem;
+    background: var(--color-lightcyan);
 }
 
 .frame {

@@ -205,11 +205,11 @@ button {
         margin-bottom: 0;
     }
 
-    .darkcyan-card {
+    .lightcyan-card {
         border-radius: 0;
     }
 
-    .lightcyan-card {
+    .darkcyan-card {
         border-radius: 0rem 0rem 0.625rem 0.625rem;
     }
 
@@ -234,11 +234,11 @@ button {
         margin-bottom: 0rem;
     }
 
-    .darkcyan-card {
+    .lightcyan-card {
         border-radius: 0;
     }
 
-    .lightcyan-card {
+    .darkcyan-card {
         border-radius: 0 0 0.625rem 0.625rem;
     }
 }

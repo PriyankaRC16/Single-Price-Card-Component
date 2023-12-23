@@ -84,9 +84,12 @@ body {
     line-height: 1.5;
 }
 
+.card-container {
+    display: flex;
+}
+
 .darkcyan-card {
     display: flex;
-    height: 20.41rem;
     padding: 2.625rem 3.97rem;
     flex-direction: column;
     gap: 1.3125rem;
